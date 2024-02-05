@@ -1,0 +1,49 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------        
+     -----------Movement--------
+     ------5 types of Pieces:---
+ - Footmen
+ - Mages
+ - Captains
+ - Generals
+ - Kings or Queens or Mayors if your into that
+----------------------------------------------
+
+
+----------Each moves differently-----------------
+|                  --- Footmen: -----
+| |- 1 square forwards or back as long as the square is empty
+| |-They can capture pieces diagonally ahead of them
+|
+|                  ----- Mages: -------
+| |-Teleports 3 squares away in any cardinal direction (Up, Down, Left, Right)
+| |-If they would teleport off the edge of the board the instead land on the edge
+|
+|                  ----- Captains: -------
+| | - move in any of the cardinal directions until stopped (By another piece or the edge of the board)
+|
+|                  ----- Generals: -----
+| |- Can move 1 square in any direction
+| |              or
+| |- diagonally until stopped (By another piece or the edge of the board)
+|
+|                  ----- Kings: ---------
+| |- Can move 2 squares in any direction sequentially (aka as long as its two steps they can get there even around other pieces)
+| |- Kings cannot move into the threat of being captured
+| |- Kings must move out of danger when threatened
+| |- If a king is under threat, the king can temporarily move through threatened squares to capture pieces, as long as it removes him from the threat
+--------------------------------------------------------------
+
+---------Additional Momvement Rules------------
+-If your king is threatened your only legal moves are to remove the king from threat
+			--Either--
+	- By capturing the enemy piece causing the threat
+	- Moving the king away
+	- Or placing one of your pieces in the way of the threat
+
+-You cannot move a piece that would place your king under threat
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+                       -------Goal------
+ - Put the enemy king under threat(s) that they cannot get out of
+                                or
+ - Leave your opponent with no legal moves
