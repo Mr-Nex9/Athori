@@ -1,3 +1,10 @@
-This game was created by a clever mage who was often hired to tutor young nobles in the city of Calasa. He created this game as a way to teach the children strategy and forward thinking. His students went on to become military leaders, build cunning merchant empires, and goverment advisors.
+This game was created long ago by a clever mage who was often hired to tutor young nobles in the city of Calasa. He created this game as a way to teach the children strategy and forward thinking. His students went on to become military leaders, build cunning merchant empires, and goverment advisors.
 
-The mage in his studies found the mortal name of Othoran, God of War, Strategy, and Glory. He decided to name it in his honor. The game is known as Athori.
+The mage in his studies found the mortal name of Othoran, God of War, Strategy, and Glory. He decided to name it in his honor. 
+The name of the mage has long been forgotten.
+The game is known as Athori.
+
+
+Athori is a 2 player turn-based strategy game.
+Players take turns moving their pawns one at a time until they have conquered their opponent.
+This is a game of strategy, wits, and cleverness.
