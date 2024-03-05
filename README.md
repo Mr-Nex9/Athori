@@ -1,6 +1,6 @@
 # Athori
 
-This game is a small chess variant to demostrate competence with the UE5 Blueprint System. 
+This game is a small chess variant to demonstrate competence with the UE5 Blueprint System. 
 The whole game was made using the BP system including the AI. The game is technically two player sharing the same screen.
 
 
